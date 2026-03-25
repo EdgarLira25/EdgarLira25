@@ -1,11 +1,9 @@
-## 👋 Welcome, I'm Edgar Lira!
+## 👋 Bem Vindo, me chamo Edgar Lira!
 
-I'm a graduate in Information Systems from the University of São Paulo.
+Formado em Sistemas de Informação pela Universidade de São Paulo.
 
-- I work with Python for backend development and TypeScript + React on the frontend.
-
-- I'm also focused on software engineering topics, such as design and architecture patterns.
-<hr/>
+- Trabalho majoritariamente com Python e Typescript
+- Tenho me aprofundado em temas como system design e boas práticas de desenvolvimento.
 
 ## 💼 Technical Skills
 
@@ -34,11 +32,4 @@ I'm a graduate in Information Systems from the University of São Paulo.
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EdgarLira25&theme=catppuccin-mocha&border_radius=4.1&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
   </a>
-
-  <a href="https://github.com/EdgarLira25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarLira25&layout=compact&theme=catppuccin_mocha" width="300px" height="195px"/>
-  </a>
 </div>
-
-## 🏆 Trophies 
-![](https://github-profile-trophy.vercel.app/?username=EdgarLira25&theme=darkhub&title=MultiLanguage,Commits,Issues,PullRequest)
